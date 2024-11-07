@@ -1,0 +1,1 @@
+This is an issue for vite vercel plugin for ssr and stuff :D
